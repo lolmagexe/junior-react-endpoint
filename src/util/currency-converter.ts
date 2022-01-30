@@ -6,7 +6,7 @@ const rates: Record<string, number> = {
     RUB: 91.181299
 }
 
-const symbols = ['$', '£', 'A$', '¥', '₽'];
+const symbols = ['$', '£', '$', '¥', '₽'];
 
 const currencyConverter = {
     availableCurrencies: Object
